@@ -9,7 +9,7 @@ public class PrimeNumber {
 		final int NUMBER_OF_PRIMERS = 50;	// Number of primes to display
 		final int NUMBER_OF_PRIMERS_PER_LINE = 10;	// Display 10 per line
 		int count = 0;	// Count the number of prime numbers
-		int number = 2; // A number to be tested for primness
+		int number = 2; // A number to be tested for primeness
 		
 		System.out.println("The first 50 prime numbers are \n");
 		
